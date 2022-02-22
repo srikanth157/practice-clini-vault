@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+
+body{
+  font-family:Open Sans; 
+}
+
+.total-container{
+  background-image: url("https://cdn.pixabay.com/photo/2021/10/11/17/37/doctor-6701410_960_720.jpg");  
+  background-size: cover;
+  height: 100vh;
+  background-attachment: fixed;
+  position:relative;
+}
+
